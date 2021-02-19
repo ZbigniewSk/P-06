@@ -10,7 +10,7 @@ const LGameHelpView = () => {
                     Space key/Turn button - red/blue block turn or coin select
                 </li>
                 <li>
-                    Enter key/Enter button - go to next move
+                    Enter key/Enter button - confirm coin selection/go to next move
                 </li>
                 <li>
                     Arrow keys/Arrow buttons - move selected blocks
